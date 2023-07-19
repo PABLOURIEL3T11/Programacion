@@ -1,0 +1,22 @@
+ body{
+            background-image:url(imagenes/repeat.png);
+            background-repeat: no-repeat;
+            background-repeat: cover;
+        
+        }
+<style>
+        body{
+        background-image:url(imagenes/repeat.png);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    
+    }
+    
+
+    </style>
+body{
+    background-image: url(imagenes/repeat.png);
+    background-size: cover ;
+    background-position: center;
+    background-attachment: fixed;
+}
