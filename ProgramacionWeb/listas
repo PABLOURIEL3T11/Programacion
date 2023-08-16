@@ -1,0 +1,28 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<link rel="stylesheet" href="style/lista.css">
+<body>
+    <ul style="list-style: square;"> 
+        <p> Utiles escolares</p>
+    
+        <li> Utiles Escolares</li>
+        <li> 20 Libretas</li>
+        <ul> <li> 4 Libretas Escribe </li>
+            <li>  5 Libretas rojas</li>
+        </ul>
+        <li> 4 cajas de colores</li>
+        <li> 20 lapices </li>
+        <ol>
+            <li> colores Rojos</li>
+            <LI> colores verdes</LI>
+
+        </ol>
+    
+    </ul>
+</body>
+</html>
