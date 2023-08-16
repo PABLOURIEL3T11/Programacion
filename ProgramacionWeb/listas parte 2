@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista Ordenada</title>
+    <link rel="stylesheet" href="listasp.css">
+    <p> Reglas de comportamiento en el trabajo</p>
+    <ol>
+        <li> el jefe siempre tiene la razon</li>
+        <li> en caso de duda aplicar la regla 1</li>
+    </ol>
+    <p>Ordenamos numeros</p>
+    <ol type="A">
+    <li> Elemento 1</li>
+    <li> Elemento 2</li>
+   </ol>
+     <ol type="1"> 
+        <p> Ordenamos numeros</p>
+     <li> Elemento 3</li>
+     <li> Elemento 4</li>
+     </ol>
+     <p> Ordenamos numeros romanos desde el 10</p>
+     <ol type="i" start="10">
+        <li> Elemento x</li>
+        <li> Elemento xi</li>
+        <li> Elemento 12</li>
+
+     </ol>
+     <P> Ordenamos numeros desde el 20</P>
+     <ol type="1" start="20">
+        <li> Elemento 1</li>
+        <li> Elemento 2</li>
+
+     </ol>
+     <p> Lista de difinicion</p>
+     <dl> 
+        <dt> Nave espacial</dt>
+        <dd> vehiculo para volar en el espacio</dd>
+        <dt> Extrarrestre</dt>
+        <dd> Un alien volador</dd>
+     </dl>
+</head>
+<body>
+    
+</body>
+</html>
