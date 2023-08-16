@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Caprasimo & family= Josefin+Sans:ital,wght@1,100 & family= Mochiy+Pop+One & display=swap');
+body{
+    background-image: url('https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif');
+}
+
+li{
+    font-family: 'Josefin Sans', sans-serif;
+    color:chartreuse;
+}
+p,dt,dl{
+    font-family: 'Caprasimo', cursive;
+    color:black;
+}
